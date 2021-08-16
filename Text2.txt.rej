@@ -1,0 +1,9 @@
+diff a/Text2.txt b/Text2.txt	(rejected hunks)
+@@ -1,5 +1,6 @@
+ Created after 1st commit
+ After creating SSH key
+ Just updating in head branch
++Just updating in Master branch
+ 
+ .
+\ No newline at end of file
